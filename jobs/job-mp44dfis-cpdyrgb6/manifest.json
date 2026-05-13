@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp44dfis-cpdyrgb6",
+  "source_url": "https://youtu.be/iMazQopn3SQ?si=OAQLA9LDYjXVRRvA",
+  "created_at_utc": "2026-05-13T13:53:14Z",
+  "mode": "single",
+  "total_size_bytes": 1043296,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp44dfis-cpdyrgb6/file.bin",
+  "chunks_path_prefix": "jobs/job-mp44dfis-cpdyrgb6/chunks/chunk_",
+  "suggested_filename": "iMazQopn3SQ"
+}
