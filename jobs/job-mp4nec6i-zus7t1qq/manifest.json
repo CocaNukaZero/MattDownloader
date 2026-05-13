@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp4nec6i-zus7t1qq",
+  "source_url": "https://ip166476495.ahcdn.com/key=K60wP24Le8XNGsFDgUk8lA,s=,end=1778724000,limit=3/data=185.201.163.4-dvp/state=agT+vEA+/reftag=0201380214/ssd10/21/2/326898672/023/734/029/480p.h264.mp4",
+  "created_at_utc": "2026-05-13T22:46:00Z",
+  "mode": "chunked",
+  "total_size_bytes": 180372414,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 2,
+  "single_file_path": "jobs/job-mp4nec6i-zus7t1qq/file.bin",
+  "chunks_path_prefix": "jobs/job-mp4nec6i-zus7t1qq/chunks/chunk_",
+  "suggested_filename": "480p.h264.mp4"
+}
